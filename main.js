@@ -216,9 +216,3 @@
 
 
  console.log("Hello YOU");
- console.log("JOE GOLDBERGE");
- console.log("Moaz Ahmed");
- console.log("Dexter");
-
-
- 
